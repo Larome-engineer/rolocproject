@@ -1,0 +1,19 @@
+telegram:
+  bot_token: bot_token
+  admin_ids:
+    - id1
+    - id2
+    - id3
+  webhook:
+    domain: https-domain
+    path: /botTokenFromBot
+  webapp:
+    host: 0.0.0.0
+    port: 8080
+
+database:
+  host:
+  port: 
+  dbname:
+  username:
+  password: 
